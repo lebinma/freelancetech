@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6{color:#333;font-family:"PT Sans", Arial, serif;font-weigh
 #fh5co-footer .contact-info li i{position:absolute;top:0;left:0;font-size:22px;color:#1fb5f6;}
 #fh5co-footer .social-media{margin:0 0 30px 0;padding:0;}
 #fh5co-footer .social-media li{display:inline-block;margin:0;padding:0;font-size:24px;margin-right:10px;}
-#fh5co-footer .social-media li a{color:#1fb5f6;}
+#fh5co-footer .social-media li a{color:#1FB5F6;}
 #fh5co-footer .social-media li a:hover, #fh5co-footer .social-media li a:focus, #fh5co-footer .social-media li a:active{text-decoration:none;}
 #fh5co-footer .contact-form .form-group input[type="name"],
 #fh5co-footer .contact-form .form-group input[type="text"],
@@ -244,6 +244,8 @@ h1, h2, h3, h4, h5, h6{color:#333;font-family:"PT Sans", Arial, serif;font-weigh
 .owl-carousel .owl-controls .owl-dot span:hover, .owl-carousel .owl-controls .owl-dot span:focus{background:#cccccc;}
 .owl-carousel .owl-controls .owl-dot:hover span, .owl-carousel .owl-controls .owl-dot:focus span{background:#cccccc;}
 .owl-carousel .owl-controls .owl-dot.active span{background:transparent;border:2px solid #ff3b30;}
+
+
 #fh5co-header{background-color:rgba(10,83,205,0.2);}
 #fh5co-footer{background-color:#34495e;color:#fff;}
 #fh5co-footer a{color:#fff;}
@@ -254,5 +256,8 @@ h1, h2, h3, h4, h5, h6{color:#333;font-family:"PT Sans", Arial, serif;font-weigh
 #fh5co-services p{color:#d8d8d8;}
 #fh5co-explore{background:#1C487F;color:#fff;}
 #fh5co-explore h2{color:#fff;}
-.price-box{background:#225aa0;padding:15px;border-radius:8px;}
+.price-box{background:#f88648;padding:15px;border-radius:8px;}
 .credits{font-size:11px;color:#c3c3c3;}
+#fh5co-home .gradient{position:absolute;top:0;bottom:0;left:0;right:0;z-index:2;background:rgba(0, 0, 0, 0.0);}
+#fh5co-explore li i{  color: #fff;}
+#fh5co-services i{color: #12f0f8;}
