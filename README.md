@@ -8,4 +8,4 @@ Freelance Technologies website repo
 
 7/7/16 : Version 2.0.0 Revamped the whole page with more flat colors.
 
-(You can use the source code of this project as a reference only. Please don't duplicate it)
+Copyright (c) Freelance Technologies. All rights reserved.
