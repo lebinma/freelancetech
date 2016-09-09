@@ -1,5 +1,4 @@
 #Freelance Technologies Website#
-
 Freelance Technologies website repo
 
 2/7/16 : Done initial release
