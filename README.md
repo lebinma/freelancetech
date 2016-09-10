@@ -1,7 +1,7 @@
 #Freelance Technologies Website#
 Freelance Technologies website repo
 
-2/7/16 : Version 1.0.0 Initial release
+2/7/16 : Version 1.0.0 First release
 
 7/7/16 : Version 1.5.0 Optimised all images. Now page loads 10x faster
 
